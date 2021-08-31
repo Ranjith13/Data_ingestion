@@ -1,0 +1,9 @@
+Process Time = 00:39:1629041943Error while connecting to MySQL
+Process Time = 00:39:1629041946Error while connecting to MySQLNot enough parameters for the SQL statement
+Process Time = 00:39:1629041950Error while connecting to MySQLNot enough parameters for the SQL statement
+Process Time = 00:39:1629041955Error while connecting to MySQLNot enough parameters for the SQL statement
+Process Time = 00:40:1629042041Error while connecting to MySQLNot enough parameters for the SQL statement
+Process Time = 00:40:1629042049Error while connecting to MySQLNot enough parameters for the SQL statement
+Process Time = 00:51:1629042689Error while connecting to MySQL1146 (42S02): Table 'creditrisk_db.creditrisk' doesn't exist
+Process Time = 00:52:1629042740Error while connecting to MySQL1050 (42S01): Table 'credit' already exists
+Process Time = 00:52:1629042761Error while connecting to MySQL1366 (HY000): Incorrect integer value: 'nan' for column 'MonthlyIncome' at row 1
